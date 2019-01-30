@@ -1,2 +1,3 @@
 BONJOUR
+SAlut
 
